@@ -1,4 +1,4 @@
-# 🚲 Mithivandi – Bike Rental Demand Prediction
+# 🚲 Bike Rental Demand Prediction
 
 **Predict bike rental demand using Machine Learning and XGBoost.**
 
